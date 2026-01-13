@@ -1,0 +1,16 @@
+{
+    "timestamp": "2026-01-13T21:05:23.856698",
+    "project_folder": "C:\\Users\\jkub2\\Desktop\\durcak_2025_11_27",
+    "project_folder_hash": "ecada3cc605b7523237e7b387fc4c776759552c155aedee84fddf08d4aabecca",
+    "python_executable": "C:\\Users\\jkub2\\Desktop\\durcak_2025_11_27\\venv\\Scripts\\python.exe",
+    "python_version": "3.14.0 (tags/v3.14.0:ebf955d, Oct  7 2025, 10:15:03) [MSC v.1944 64 bit (AMD64)]",
+    "public_ip": "78.80.80.70",
+    "local_ip": "192.168.1.111",
+    "unique_token": "b1e558c892764cfaf9b44a0d940688b0670d2c0990396300566e5c0e64bd2347",
+    "system_info": {
+        "os": "Windows",
+        "os_version": "10.0.26200",
+        "machine": "AMD64",
+        "processor": "AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD"
+    }
+}
